@@ -13,12 +13,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-    //first comment
-    //second commit
-    //third
-    //fourth
-    //fifth
-
+    
 }
 
